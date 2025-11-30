@@ -1,0 +1,43 @@
+body{
+    background-image:linear-gradient(to right,#15aca3,#087db2);
+    }
+ .container{
+        width:90%;
+        height:600px;
+        margin: 40px auto 0px;
+        background-image: linear-gradient(rgba(0,0,50,0.8),rgba(0,0,50,0.8)), url("background.jpg");
+        background-position:center;
+        background-size:cover;
+        position:relative;
+        border-radius:20px;
+    }
+ 
+ #title{
+     text-align:center;
+     padding-top:120px;
+     color:#087db2;
+     margin-bottom:0px;
+ }
+ 
+ .form-group{
+     margin-left:25px;
+     margin-right:25px;
+     margin-top:20px;
+    
+ }
+input {
+     width:95%;
+     height:35px;
+     border-radius:5px;
+     border:none;
+ }
+ span{
+     color:#087db2;
+ }
+ 
+ p{
+ margin-top:40px;
+ margin-left:50px;
+     }
+ 
+     
